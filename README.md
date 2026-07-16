@@ -45,7 +45,7 @@ I am a Computer Science and Engineering graduate from **Malaviya National Instit
 
 <h3 align="center">💻 Programming Languages</h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,python,java,js,sql&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,java,js,sql&theme=dark" />
 </p>
 
 <h3 align="center">⚙️ Backend & Architecture</h3>
