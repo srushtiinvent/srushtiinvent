@@ -43,30 +43,28 @@ I am a Computer Science and Engineering graduate from **Malaviya National Instit
 
 ## ⚡ Engineering Stack
 
-<h3 align="center">💻 Programming Languages</h3>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,java,js,sql&theme=dark" />
-</p>
+<div align="center">
+  
+### 💻 Programming Languages
+<img src="https://skillicons.dev/icons?i=cpp,python,java,js,c&theme=dark" />
+<br><br>
 
-<h3 align="center">⚙️ Backend & Architecture</h3>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,flask,linux&theme=dark" />
-</p>
+### ⚙️ Backend & Architecture
+<img src="https://skillicons.dev/icons?i=nodejs,express,flask,linux&theme=dark" />
+<br><br>
 
-<h3 align="center">🎨 Frontend Development</h3>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,tailwind,html,css&theme=dark" />
-</p>
+### 🎨 Frontend Development
+<img src="https://skillicons.dev/icons?i=react,tailwind,html,css&theme=dark" />
+<br><br>
 
-<h3 align="center">🗄️ Databases & Caching</h3>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis&theme=dark" />
-</p>
+### 🗄️ Databases & Caching
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis&theme=dark" />
+<br><br>
 
-<h3 align="center">☁️ DevOps & Tools</h3>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=docker,git,github,vscode,bash&theme=dark" />
-</p>
+### ☁️ DevOps & Tools
+<img src="https://skillicons.dev/icons?i=docker,git,github,vscode,bash&theme=dark" />
+
+</div>
 
 ---
 
