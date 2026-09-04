@@ -90,7 +90,7 @@ I am a Computer Science and Engineering graduate from **Malaviya National Instit
 ## 🏆 Competitive Programming & Metrics
 
 <div align="center">
-  <img src="https://img.shields.io/badge/LeetCode-Top_6.36%25-e0af68?style=for-the-badge&logo=leetcode&logoColor=1a1b26&color=e0af68" />
+  <img src="https://img.shields.io/badge/LeetCode-Top_3.89%25-e0af68?style=for-the-badge&logo=leetcode&logoColor=1a1b26&color=e0af68" />
   <img src="https://img.shields.io/badge/CodeForces-Pupil_(1299)-7dcfff?style=for-the-badge&logo=codeforces&logoColor=1a1b26&color=7dcfff" />
   <img src="https://img.shields.io/badge/GeeksForGeeks-3_Star_(1756)-9ece6a?style=for-the-badge&logo=geeksforgeeks&logoColor=1a1b26&color=9ece6a" />
   <img src="https://img.shields.io/badge/CodeChef-2_Star_(1482)-bb9af7?style=for-the-badge&logo=codechef&logoColor=1a1b26&color=bb9af7" />
