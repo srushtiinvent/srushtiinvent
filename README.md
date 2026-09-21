@@ -8,7 +8,7 @@
 
 <br/>
 
-<a href="https://linkedin.com/in/srushti-nerkar">
+<a href="https://www.linkedin.com/in/srushti-nerkar-58034827b/">
   <img src="https://img.shields.io/badge/-LinkedIn-1a1b26?style=for-the-badge&logo=linkedin&logoColor=7AA2F7&color=1a1b26&edge_color=7AA2F7" alt="LinkedIn" />
 </a>
 <a href="mailto:srushti.invent@gmail.com">
