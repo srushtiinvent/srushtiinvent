@@ -14,7 +14,7 @@
 <a href="mailto:srushti.invent@gmail.com">
   <img src="https://img.shields.io/badge/-Email-1a1b26?style=for-the-badge&logo=gmail&logoColor=f7768e&color=1a1b26&edge_color=f7768e" alt="Email" />
 </a>
-<a href="https://leetcode.com/srushti-nerkar">
+<a href="[https://leetcode.com/srushti-nerkar](https://leetcode.com/u/Srushti_1004/)">
   <img src="https://img.shields.io/badge/-LeetCode-1a1b26?style=for-the-badge&logo=leetcode&logoColor=e0af68&color=1a1b26&edge_color=e0af68" alt="LeetCode" />
 </a>
 <a href="https://codeforces.com/profile/srushti-nerkar">
