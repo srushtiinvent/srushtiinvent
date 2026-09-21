@@ -99,7 +99,7 @@ I am a Computer Science and Engineering graduate from **Malaviya National Instit
 <br/>
 
 - **LeetCode:** Global Rank 256 in Biweekly Contest 190 (Max Rating 1929)
-- **Codeforces:** Global Rank 2259 in Round 1021 (Div 2)
+- **Codeforces:** Global Rank 304 in Round 1119 (Div 3) (Max Rating 1391)
 - **GeeksForGeeks:** Global Rank 210 in Weekly 189
 - **CodeChef:** Global Rank 401 in Starters 173
 
