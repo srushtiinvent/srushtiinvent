@@ -17,7 +17,7 @@
 <a href="https://leetcode.com/u/Srushti_1004/">
   <img src="https://img.shields.io/badge/-LeetCode-1a1b26?style=for-the-badge&logo=leetcode&logoColor=e0af68&color=1a1b26&edge_color=e0af68" alt="LeetCode" />
 </a>
-<a href="https://codeforces.com/profile/srushti-nerkar">
+<a href="https://codeforces.com/profile/srushti_2910">
   <img src="https://img.shields.io/badge/-Codeforces-1a1b26?style=for-the-badge&logo=codeforces&logoColor=7dcfff&color=1a1b26&edge_color=7dcfff" alt="Codeforces" />
 </a>
 
