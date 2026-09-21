@@ -107,7 +107,7 @@ I am a Computer Science and Engineering graduate from **Malaviya National Instit
 
 ## 🌟 Professional Highlights & Achievements
 
-- 🥇 **Innovation:** Granted **3 Indian patents** for technological innovations (with 2 more currently pending).
+- 🥇 **Innovation:** Granted **4 Indian patents** for technological innovations (with 2 more currently pending).
 - 🎤 **Thought Leadership:** Invited speaker at **TEDx MITAOE** (2020) and the International Women's Day celebration by **WTM and GDG Pune** (2021).
 - 🎬 **Global Impact:** Featured in a **United Nations film** highlighting the Clean Water Issue (2020).
 - 💻 **Hackathons:** Finalist at the prestigious **Baker Hughes Hackathon** (2025).
@@ -136,7 +136,7 @@ I am a Computer Science and Engineering graduate from **Malaviya National Instit
 
 <br/>
 
-<a href="https://linkedin.com/in/srushti-nerkar"><img src="https://img.shields.io/badge/Connect_on-LinkedIn-7AA2F7?style=for-the-badge&logo=linkedin&logoColor=1a1b26&color=7AA2F7" /></a>
+<a href="https://www.linkedin.com/in/srushti-nerkar-58034827b/"><img src="https://img.shields.io/badge/Connect_on-LinkedIn-7AA2F7?style=for-the-badge&logo=linkedin&logoColor=1a1b26&color=7AA2F7" /></a>
 <a href="mailto:srushti.invent@gmail.com"><img src="https://img.shields.io/badge/Drop_an-Email-f7768e?style=for-the-badge&logo=gmail&logoColor=1a1b26&color=f7768e" /></a>
 
 </div>
