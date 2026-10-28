@@ -90,15 +90,13 @@ I am a Computer Science and Engineering graduate from **Malaviya National Instit
 
 <div align="center">
   <img src="https://img.shields.io/badge/LeetCode-Top_1.57%25-e0af68?style=for-the-badge&logo=leetcode&logoColor=1a1b26&color=e0af68" />
-  <img src="https://img.shields.io/badge/CodeForces-Pupil_(1391)-7dcfff?style=for-the-badge&logo=codeforces&logoColor=1a1b26&color=7dcfff" />
   <img src="https://img.shields.io/badge/GeeksForGeeks-3_Star_(1756)-9ece6a?style=for-the-badge&logo=geeksforgeeks&logoColor=1a1b26&color=9ece6a" />
   <img src="https://img.shields.io/badge/CodeChef-3_Star_(1652)-bb9af7?style=for-the-badge&logo=codechef&logoColor=1a1b26&color=bb9af7" />
 </div>
 
 <br/>
 
-- **LeetCode:** Global Rank 256 in Biweekly Contest 190 (Max Rating 2101)
-- **Codeforces:** Global Rank 304 in Round 1119 (Div 3) (Max Rating 1391)
+- **LeetCode:** Global Rank 140 in Biweekly Contest 193 (Max Rating 2199)
 - **GeeksForGeeks:** Global Rank 210 in Weekly 189
 - **CodeChef:** Global Rank 180 in Starters 257
 
